@@ -1,5 +1,6 @@
 # EasyX-Core
 The core of EasyOS, which controls the hardware, boot, and software of the virtual system
+
 EasyOS 的核心 ， 控制虚拟系统的硬件，启动，软体
 
 # Engilsh
